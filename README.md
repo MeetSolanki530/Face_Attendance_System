@@ -14,4 +14,4 @@ Implemented an attendance system based on facial recognition using OpenCV and fa
 
 ## Installation
 ```bash
-pip install face_recognition opencv-python numpy
+pip install -r requirements.txt
